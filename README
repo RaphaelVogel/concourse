@@ -17,3 +17,5 @@ In some cases, unnecessary contents were removed in order to reduce image sizes.
 
 All images (with the notable exception of the web-image) are built for both linux/arm64 and
 linux/amd64. The images have only been tested / built for being used in a k8s-deployment.
+
+TEST
